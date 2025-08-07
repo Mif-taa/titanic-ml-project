@@ -52,9 +52,9 @@ Model performance was measured using **accuracy score** and **cross-validation**
 ## 📁 Folder Structure
 Titanic_EDA_Project/
 │
-├── titanic_model.ipynb # Main Kaggle notebook
+├── exploratory-data-analysis-on-titanic-dataset.ipynb # Main Kaggle notebook
 ├── train.csv # Training dataset
-└── README.md # Project documentation
+README.md # Project documentation
 
 
 ---
@@ -92,7 +92,7 @@ Titanic_EDA_Project/
 **Miftahul Jannat Rishta**  
 3rd-year CSE student | Interested in ML & Web Dev  
 🔗 [LinkedIn](https://www.linkedin.com/in/YOUR_LINK)  
-🐱 [GitHub](https://github.com/YOUR_USERNAME)  
+🐱 [GitHub](https://github.com/Mif-taa)  
 
 ---
 
