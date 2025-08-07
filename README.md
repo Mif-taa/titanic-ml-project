@@ -1,4 +1,3 @@
-# titanic-ml-project
 # Titanic - Machine Learning from Disaster 🚢
 
 This project is a solution to the [Kaggle Titanic competition](https://www.kaggle.com/competitions/titanic), which is a classic binary classification task: **predicting whether a passenger survived the Titanic shipwreck or not** using historical data.
